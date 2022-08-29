@@ -1,4 +1,6 @@
 # Section4-Project
+### 발표 영상
+[![Video Label](http://img.youtube.com/vi/s5LoBwbaqT4/0.jpg)](https://youtu.be/s5LoBwbaqT4)
 
 # 🎯 해결하고자 하는 문제
 ## 🎯 Main : X-ray 이미지를 CNN 분류 모델을 통해 정상/세균성 폐렴/바이러스성 폐렴/COVID19으로 분류한다.
